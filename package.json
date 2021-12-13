@@ -1,0 +1,19 @@
+{
+  "name": "eqshow-template",
+  "version": "1.0.0",
+  "description": "eqshow初始项目/组件库模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanYagang/eqshow-template.git"
+  },
+  "author": "HanYagang <70358969@qq.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/HanYagang/eqshow-template#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}

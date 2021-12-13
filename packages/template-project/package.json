@@ -1,0 +1,16 @@
+{
+  "name": "@eqshow/template-project",
+  "version": "0.0.0",
+  "description": "eqshow初始项目模板",
+  "author": "HanYagang <70358969@qq.com>",
+  "homepage": "https://github.com/HanYagang/eqshow-template/tree/main/packages/template-project#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanYagang/eqshow-template.git"
+  }
+}
