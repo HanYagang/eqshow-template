@@ -1,0 +1,16 @@
+{
+  "name": "@eqshow/template-component",
+  "version": "1.0.0",
+  "description": "eqshow组件库模板",
+  "author": "hanyagang <70358969@qq.com>",
+  "homepage": "https://github.com/HanYagang/eqshow-template/tree/main/packages/template-component#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanYagang/eqshow-template.git"
+  }
+}
